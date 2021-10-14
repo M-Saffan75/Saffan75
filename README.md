@@ -2,8 +2,7 @@
 - 👀 I’m interested in web Developing
 - 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on web Creating
-- 📫 How to reach me ? 
-      on my github
+- 📫 How to reach me  "MY GITHUB" 
 
 <!---
 Saffan75/Saffan75 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
